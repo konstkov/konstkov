@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-<!--
-**konstkov/konstkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔭 Featured Embedded Projects 
 
-- 🔭 I’m currently working on ...
+### 💊 Pill Dispenser
+
+- Developed firmware in C for Raspberry Pi Pico to communicate with an external device over LoRaWAN. Implemented a message protocol with tailored timeouts for each response, ensuring robust and synchronized data exchange.
+
+- [Pill Dispenser Project](https://github.com/kiannumax/Embedded-Project)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
