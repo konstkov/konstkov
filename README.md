@@ -20,3 +20,11 @@
 🔗 [My implementation (MQTT/LoRaWAN communication)](https://github.com/kiannumax/Embedded-Project/tree/lorawan)
 🔗 [Full Project Repository](https://github.com/kiannumax/Embedded-Project)
 
+### ❤️  Heart Rate Monitor
+
+- Developed heart rate measurement and signal processing algorithms in Python, converting raw pulse sensor data into BPM and HRV metrics (RMSSD, SDNN, mean HR).
+- Fixed a non-functional implementation by redesigning the signal processing pipeline, including noise filtering, peak detection, and sampling optimization for reliable pulse detection.
+- Worked within a larger system featuring OLED display user interface, MQTT-based cloud integration and Kubios analysis for advanced heart health insights.
+
+🔗 [My implementation (Signal Processing / Pulse Detection)](https://gitlab.metropolia.fi/ngoctngu/hr-monitor/-/tree/hr_measurement_old_file_edited?ref_type=heads)
+🔗 [Full Project Repository](https://gitlab.metropolia.fi/ngoctngu/hr-monitor/-/tree/main?ref_type=heads)
