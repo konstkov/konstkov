@@ -2,11 +2,16 @@
 
 
 ## Featured Embedded Projects 
+## About my project contributions
+
+For the group projects below, I developed my assigned functionality independently on a separate feature branch. The implementations shown here are my own work and were fully functional and testable independently. During the final integration, the team lead refactored and consolidated the different team members' implementations into the project's main branch.
+
+The linked branches therefore represent my individual contributions, while the full project repositories show the final integrated versions.
 
 ### 🚪 Garage Door Opener 
 
 - Implemented  mechanical door motion system in C++ for Raspberry Pi Pico, including stepper motor control and interrupt-driven rotary encoder implementation for precise position tracking.
-- Designed reliable motion handling with consideration for real-time behavior and fault conditions within a larger system featuring MQTT-based communication and EEPROM-backed state persistence.
+- Designed the motion-control logic with consideration for real-time behavior and fault conditions, integrating stepper motor control and encoder feedback into the larger MQTT/EEPROM-based system.
 
 🔗 [My implementation (Motion Control Branch)](https://github.com/kiannumax/Embedded-Garage-Door-/tree/konstantin-motor)
 🔗 [Full Project Repository](https://github.com/kiannumax/Embedded-Garage-Door-)
