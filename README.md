@@ -10,7 +10,7 @@ The linked branches therefore represent my individual contributions, while the f
 
 ### 🌱 Greenhouse CO₂ Controller
 
-![Greenhouse CO₂ Controller test setup](users/konstantinkovalev/github-konstkov/greenhouse.png)
+![Greenhouse CO₂ Controller test setup](images/greenhouse.png)
 
 - Implemented UART-based Modbus RTU communication in C++ for Raspberry Pi Pico, enabling reliable communication with industrial sensors and a Modbus-controlled ventilation system.
 - Developed a UART command interpreter (console interface) for system monitoring and configuration, supporting commands for sensor readings, network credentials, and system control.
