@@ -10,9 +10,7 @@ The linked branches therefore represent my individual contributions, while the f
 
 ### 🌱 Greenhouse CO₂ Controller
 
-<img src="images/greenhouse.jpg"
-     alt="Greenhouse CO2 Controller"
-     width="700">
+![Greenhouse CO2 Controller](images/greenhouse.jpg)
 
 - Implemented UART-based Modbus RTU communication in C++ for Raspberry Pi Pico, enabling reliable communication with industrial sensors and a Modbus-controlled ventilation system.
 - Developed a UART command interpreter (console interface) for system monitoring and configuration, supporting commands for sensor readings, network credentials, and system control.
