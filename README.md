@@ -10,7 +10,7 @@ The linked branches therefore represent my individual contributions, while the f
 
 ### 🌱 Greenhouse CO₂ Controller
 
-<img src="images/greenhouse-controller.jpg"
+<img src="images/greenhouse.jpg"
      alt="Greenhouse CO2 Controller"
      width="700">
 
